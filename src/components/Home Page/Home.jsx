@@ -19,7 +19,7 @@ Engineered for Continuous Performance
             </div>
           </div>
           <div className="hero-image-wrapper">
-            <img src="Machine1.jpg" alt="Umesh " className="hero-image  " />
+            <img src="Subodhmm.jpeg" alt="Umesh " className="hero-image  " />
           </div>
         </div>
       </section>

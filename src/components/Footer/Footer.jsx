@@ -17,9 +17,9 @@ const Footer = () => {
           </div>
 
           <p className="policy-text">
-            <a href="#" className="policy-link">Umesh Kaushik</a>
+            <a href="#" className="policy-link">Subodh Yadav</a>
             <span className="separator">•</span>
-            <a href="#" className="policy-link">9817859887</a>
+            <a href="#" className="policy-link">8685827081</a>
           </p>
         </div>
       </footer>

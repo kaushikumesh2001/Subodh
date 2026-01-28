@@ -6,12 +6,21 @@ const Contact = () => {
         
       {/* <!-- Contact section --> */}
       <section className="contact-section" id="contact">
+
         <h2 className="section-title">Contact Us</h2>
         <div className="section-content">
+
           <ul className="contact-info-list">
+          <h1 className='font-bold text-2xl text-blue-900'>Shiri Krishna Construction Company <br />
+          Kanwi Narnaul (123001)
+          </h1>
+          <h1 className='font-bold text-blue-950'>
+Machine currently located at Abu Road
+
+          </h1>
             <li className="contact-info">
               <i className="fa-solid fa-location-crosshairs"></i>
-              <p> Mahendergarh,123034 Haryana</p>
+              <p> Kanwi,Narnaul 123001 Haryana</p>
             </li>
             <li className="contact-info">
               <i className="fa-regular fa-envelope"></i>
